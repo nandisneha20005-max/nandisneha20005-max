@@ -29,18 +29,14 @@
 </p>
 
 ---
-## 🌐 Connect With Me
+🤝 Let's Connect
 
-### 🤝 Let's Connect & Collaborate!
+<p align="left">
+<a href="https://www.linkedin.com/in/sneha-nandi-1297a3429"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" /></a>
+<a href="https://www.instagram.com/sneha_4844_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black" /></a>
+</p>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sneha_Nandi-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sneha-nandi-1297a3429)
-[![Instagram](https://img.shields.io/badge/Instagram-@sneha__4844__-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/sneha_4844_)
-[![GitHub](https://img.shields.io/badge/GitHub-nandisneha20005--max-181717?style=flat-square&logo=github)](https://github.com/nandisneha20005-max)
-
-</div>
-
-> ✨ *Open to internships & collabs | Kolkata, WB*
+📍 Kolkata, West Bengal, India | 💼 Aspiring SDE @ 2026
+⭐ From [nandisneha20005-max](https://github.com/nandisneha20005-max) with ❤️
 
 ⭐ From [nandisneha20005-max](https://github.com/nandisneha20005-max) with ❤️
