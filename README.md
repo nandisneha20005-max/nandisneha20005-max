@@ -1,15 +1,5 @@
 # Hi there, I'm Sneha Nandi 👋
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sneha-nandi-1297a3429" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/sneha_4844_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://github.com/nandisneha20005-max" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-Aspiring Java Full Stack Developer from Kolkata...
-
 ### 🚀 Aspiring Java Full Stack Developer from Kolkata
 
 ![Java](https://img.shields.io/badge/Focus-Java%20Full%20Stack-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -32,12 +22,27 @@ Aspiring Java Full Stack Developer from Kolkata...
 - 🧩 Solving 375 DSA Problems in Java
 - 💼 Goal: Cracking SDE Role with High Package
 ---
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandisneha20005-max&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandisneha20005-max&theme=tokyonight" height="150" />
+# 📊 GitHub Stats:
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=nandisneha20005-max&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://streak-stats.demolab.com/?user=nandisneha20005-max&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandisneha20005-max&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 ---
+### 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sneha_Nandi-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sneha-nandi-1297a3429)
+[![Instagram](https://img.shields.io/badge/Instagram-@sneha__4844__-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/sneha_4844_)
+[![GitHub](https://img.shields.io/badge/GitHub-nandisneha20005--max-181717?style=flat-square&logo=github)](https://github.com/nandisneha20005-max)
+
+</div>
+
+> ✨ *Open to internships & collabs | Kolkata, WB*
 
 ⭐ From [nandisneha20005-max](https://github.com/nandisneha20005-max) with ❤️
