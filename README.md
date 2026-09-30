@@ -29,16 +29,17 @@
 </p>
 
 ---
+## 🌐 Connect With Me
 
-
-🤝 Let's Connect
-
-<p align="left">
-<a href="https://www.linkedin.com/in/sneha-nandi-1297a3429" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/sneha_4844_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/sneha-nandi-1297a3429"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/sneha_4844_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="mailto:nandisneha20005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-📍 Kolkata, West Bengal, India | 💼 Aspiring Software Developer
-> "Code. Commit. Conquer."
+<p align="center">
+📍 Kolkata, India | 💼 Java Full Stack Developer <br/>
+<i>"Code. Commit. Conquer. 🚀"</i>
+</p>
 
 ⭐ From [nandisneha20005-max](https://github.com/nandisneha20005-max) with ❤️
