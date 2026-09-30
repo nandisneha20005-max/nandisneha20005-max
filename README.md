@@ -29,9 +29,16 @@
 </p>
 
 ---
-### 🤝 Let's Connect
-📍 Kolkata, West Bengal, India | 💼 Aspiring Software Developer
 
-> _"Code. Commit. Conquer."_
+
+🤝 Let's Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sneha-nandi-1297a3429" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/sneha_4844_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+📍 Kolkata, West Bengal, India | 💼 Aspiring Software Developer
+> "Code. Commit. Conquer."
 
 ⭐ From [nandisneha20005-max](https://github.com/nandisneha20005-max) with ❤️
