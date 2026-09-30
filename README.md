@@ -1,5 +1,15 @@
 # Hi there, I'm Sneha Nandi 👋
 
+<p align="left">
+<a href="https://www.linkedin.com/in/sneha-nandi-1297a3429" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/sneha_4844_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://github.com/nandisneha20005-max" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+Aspiring Java Full Stack Developer from Kolkata...
+
 ### 🚀 Aspiring Java Full Stack Developer from Kolkata
 
 ![Java](https://img.shields.io/badge/Focus-Java%20Full%20Stack-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -29,14 +39,5 @@
 </p>
 
 ---
-🤝 Let's Connect
-
-<p align="left">
-<a href="https://www.linkedin.com/in/sneha-nandi-1297a3429"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" /></a>
-<a href="https://www.instagram.com/sneha_4844_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black" /></a>
-</p>
-
-📍 Kolkata, West Bengal, India | 💼 Aspiring SDE @ 2026
-⭐ From [nandisneha20005-max](https://github.com/nandisneha20005-max) with ❤️
 
 ⭐ From [nandisneha20005-max](https://github.com/nandisneha20005-max) with ❤️
