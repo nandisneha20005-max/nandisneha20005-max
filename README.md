@@ -17,11 +17,10 @@
 
 ---
 ### 🎯 My Mission 2026
-- 🔭 Building **2 End-to-End Full Stack Projects**
-- 🌱 Learning: **Spring Boot + Microservices + AWS**
-- 💻 Solving **375 DSA Problems in Java**
-- 🥅 Goal: **Cracking a High Salary Package**
-
+- 🚀 Building Scalable Full Stack Products (E-Commerce + SaaS)
+- 🌱 Mastering: Spring Boot | Microservices | AWS | System Design
+- 🧩 Solving 375 DSA Problems in Java
+- 💼 Goal: Cracking SDE Role with High Package
 ---
 ### 📊 GitHub Stats
 <p align="center">
