@@ -31,15 +31,16 @@
 ---
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sneha-nandi-1297a3429"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/sneha_4844_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="mailto:nandisneha20005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### 🤝 Let's Connect & Collaborate!
 
-<p align="center">
-📍 Kolkata, India | 💼 Java Full Stack Developer <br/>
-<i>"Code. Commit. Conquer. 🚀"</i>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sneha_Nandi-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sneha-nandi-1297a3429)
+[![Instagram](https://img.shields.io/badge/Instagram-@sneha__4844__-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/sneha_4844_)
+[![GitHub](https://img.shields.io/badge/GitHub-nandisneha20005--max-181717?style=flat-square&logo=github)](https://github.com/nandisneha20005-max)
+
+</div>
+
+> ✨ *Open to internships & collabs | Kolkata, WB*
 
 ⭐ From [nandisneha20005-max](https://github.com/nandisneha20005-max) with ❤️
