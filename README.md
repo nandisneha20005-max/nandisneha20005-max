@@ -138,13 +138,12 @@ I will update this section as I solve more problems and cover additional DSA top
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nandisneha20005-max&theme=radical&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com/?user=nandisneha20005-max&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandisneha20005-max&theme=redical&hide_border=true" alt="GitHub contribution activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandisneha20005-max&theme=tokyo-night&hide_border=true&area=true&custom_title=DSA%20Journey%20Sep%2025%20-%20Present" alt="GitHub contribution activity graph"/>
 </p>
-
 ---
 
 ## 🎯 My Learning Roadmap
